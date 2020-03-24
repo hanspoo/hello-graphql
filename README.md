@@ -1,3 +1,16 @@
+Programa de Ejemplo de Accceso a Graphql
+
+En este ejemplo se utiliza:
+
+Backend
+play framework 1.x 
+graphql-java
+
+Front
+Reac JS
+apollo-client
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
